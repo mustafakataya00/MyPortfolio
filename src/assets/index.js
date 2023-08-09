@@ -34,6 +34,7 @@ import clothesshop from "./clothesproject1.png";
 import flight from "./flightsys.png";
 import api from "./api.png";
 import facedetect from "./facedetect.jpg";
+import laravel from "./laravel.png";
 import movie from "./movie.png";
 
 export { 
@@ -57,6 +58,7 @@ export {
   ubuntu,
   kali,
   csharp,
+  laravel,
   mssql,
   jquery,
   asm,
