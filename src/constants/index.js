@@ -16,6 +16,7 @@ import {
   asp,
   python,
   spring,
+  laravel,
   block,
   movie,
   solidity,
@@ -104,6 +105,10 @@ const technologies = [
   {
     name: "PHP",
     icon: php,
+  },
+  {
+    name:"Laravel",
+    icon: laravel,
   },
   {
     name: "Tailwind CSS",
