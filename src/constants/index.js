@@ -201,6 +201,25 @@ const experiences = [
        "Participated in team meetings, code reviews, and discussions to ensure the project's success.",
     ],
   },
+  {
+    title: "Full Stack Developer Intern",
+    company_name: "Inmind.ai",
+    icon: idsfintech,
+    iconBg: "#383E56",
+    date: "Jan 2024 - March 2024",
+    points: [
+      "Frontend Development (Angular) :",
+"Designed and implemented responsive user interfaces.",
+" Integrated user-facing elements with server-side logic.",
+" Integrated rxjs and state management (ngrx/store) in my website and others.",
+" Backend Development (.NET):",
+" Developed server-side logic and implemented RESTful APIs using .NET 8.",
+" Utilized Domain-Driven Design (DDD) principles for structuring backend codebase.",
+" Implemented Command Query Responsibility Segregation (CQRS) pattern with MediatR for separation of concerns with the Use of Odata for manipulating the data.",
+"Designed and implemented multitenancy/microservices architecture for improved scalability and isolation.",
+"Integrated Keycloak/firebase for secure authentication and authorization."
+    ],
+  },
 ];
 
 
